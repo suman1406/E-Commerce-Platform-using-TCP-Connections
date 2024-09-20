@@ -142,7 +142,7 @@ The following table provides an overview of the TCP connections available:
 
 ## Team Members
 
-- **Suman Panigrahi**
+- **Suman Panigrahi**  
   GitHub: [Link](https://github.com/suman1406)
   
 - **Sravani Oruganti**  

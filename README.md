@@ -149,10 +149,10 @@ The following table provides an overview of the TCP connections available:
   GitHub: [Link](https://github.com/sravs-01)
 
 - **Sai Kiran Varma**  
-  GitHub: [Link](https://github.com/Pravallika0712)
+  GitHub: [Link](https://github.com/varma011)
 
 - **Soma Siva Pravallika**  
-  GitHub: [Link](https://github.com/varma011)
+  GitHub: [Link](https://github.com/Pravallika0712)
 
 ---
 

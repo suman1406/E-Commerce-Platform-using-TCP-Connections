@@ -49,7 +49,7 @@ Before running the project, make sure you have the following:
 
 1. Clone this repository to each VM (one for the server and each client):
     ```bash
-    git clone https://github.com/suman1406/sE-Commerce-Platform-using-TCP-Connections.git
+    git clone https://github.com/suman1406/E-Commerce-Platform-using-TCP-Connections.git
     cd E-Commerce-Platform-using-TCP-Connections
     ```
 
